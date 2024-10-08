@@ -1,0 +1,24 @@
+
+<!-- Let’s imagine you have a toy box, and you want to store different toys inside it. 
+
+In JavaScript, variables are like those toy boxes, and you can put anything you like in them—cars, dolls, Legos—you name it! These toy boxes (or variables) have names, and depending on the type of box you use, there are different rules on how you can play with them -->
+
+
+<!-- 
+1. Using "var" (The Old Toy Box)
+
+Imagine you have an old toy box called var. You can change what toy is inside it as many times as you want. But here's the tricky part: even if you don't put a toy in it right away, the toy box is still there, waiting for you to fill it. -->
+
+
+<!-- For example: -->
+
+var toy = "Car";
+
+
+<!-- You’ve put a car inside the box. But then you change your mind: -->
+var toy = "Doll";
+
+
+<!-- Now you’ve taken out the car and put a doll in there! With var, you can keep changing what's inside the box.
+
+But! If you open this box anywhere in the room (the code), you’ll see what’s inside. This means it doesn’t care about which part of the room you’re in—it shows the toy everywhere. -->
